@@ -1,0 +1,4 @@
+C:\Users\Homa Rayaneh\RiderProjects\Rail Fence Cipher _  Encoding and Decoding\Rail Fence Cipher _  Encoding and Decoding\obj\Debug\net8.0\Rail Fence Cipher _  Encoding and Decoding.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Homa Rayaneh\RiderProjects\Rail Fence Cipher _  Encoding and Decoding\Rail Fence Cipher _  Encoding and Decoding\obj\Debug\net8.0\Rail Fence Cipher _  Encoding and Decoding.AssemblyInfoInputs.cache
+C:\Users\Homa Rayaneh\RiderProjects\Rail Fence Cipher _  Encoding and Decoding\Rail Fence Cipher _  Encoding and Decoding\obj\Debug\net8.0\Rail Fence Cipher _  Encoding and Decoding.AssemblyInfo.cs
+C:\Users\Homa Rayaneh\RiderProjects\Rail Fence Cipher _  Encoding and Decoding\Rail Fence Cipher _  Encoding and Decoding\obj\Debug\net8.0\Rail Fence Cipher _  Encoding and Decoding.csproj.CoreCompileInputs.cache
