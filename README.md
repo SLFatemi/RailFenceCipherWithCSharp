@@ -5,7 +5,7 @@
   <h1>Rail fence cipher Encoder/Decoder</h1>
   
   <p>
-    Solving the Rail fence cipher problem with C# - codewars.com/kata/58c5577d61aefcf3ff000081
+    Solving the Rail fence cipher problem with C# - [https://www.codewars.com/kata/58c5577d61aefcf3ff000081](Rail fence cipher on Codewars)
   </p>
   </div>
 <br />
